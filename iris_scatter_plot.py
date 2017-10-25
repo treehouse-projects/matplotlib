@@ -29,11 +29,11 @@ for sepal in range(0, len(iris_array)-1):
                                c=colors[species])
 
     elif species == 'Iris-versicolor':
-        green_dot = plt.scatter(sepal_length, sepal_width, s=10,
+        green_dot = plt.scatter(sepal_length, sepal_width, s=10, marker='s',
                                 c=colors[species])
 
     elif species == 'Iris-virginica':
-        red_dot = plt.scatter(sepal_length, sepal_width, s=10,
+        red_dot = plt.scatter(sepal_length, sepal_width, s=10, marker='D',
                               c=colors[species])
 
 
