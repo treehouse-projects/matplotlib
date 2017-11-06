@@ -12,6 +12,6 @@
  + Video 5: `box_plot.py`
 ### Stage 3
  + Video 2: `old_faithful.py`
- + Video 3: `presentation.py`
+ + Video 3: `old_faithful_presentation.py`
 
  
