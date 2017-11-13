@@ -28,5 +28,5 @@ plt.title("Fisher's Iris Data Set, Petal Length", fontsize=12, loc="left")
 plt.xlabel("Iris Variety", fontsize=10)
 plt.ylabel("Petal length (cm)", fontsize=10)
 
-fig.savefig('boxplot.png')
+fig.savefig('petal_length_boxplot.png')
 plt.show()
