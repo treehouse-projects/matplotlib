@@ -14,4 +14,5 @@
  + Video 2: `old_faithful.py`
  + Video 3: `old_faithful_presentation.py`
 
+ [Admin Link](https://teamtreehouse.com/admin/syllabi/4102)
  
